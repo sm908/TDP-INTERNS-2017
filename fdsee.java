@@ -19,7 +19,7 @@ public class fdsee {
     public static int[] docIDList;
 
 
-    public static Hashtable<String, Integer> hashWordList;
+    public static Hashtable<String, Integer> hashWordList
 
     public static boolean stringInArray(String word, String[] array){
 

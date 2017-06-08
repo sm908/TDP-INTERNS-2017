@@ -98,7 +98,7 @@ public class fdsee {
        
         for(int i = 0; i < size; i++){
             if(list[i] == list[i+1]){
-                array.add(list[i]);
+                array.add(list[i])
             }
         }
 

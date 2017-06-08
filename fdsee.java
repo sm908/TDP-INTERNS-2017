@@ -15,7 +15,7 @@ public class fdsee {
     public static PrintWriter writer;
 
 
-    public static int docID = 1;
+    public static int docID = 1
     public static int[] docIDList;
 
 

@@ -108,7 +108,7 @@ public class fdsee {
         int[] array2 = new int[array.size()];
 
         for(int i = 0; i < array.size(); i++){
-            array2[i] = arr[i];
+            array2[i] = arr[i]
         }
 
         return array2; 

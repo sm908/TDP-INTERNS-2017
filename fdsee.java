@@ -71,7 +71,7 @@ public class fdsee {
                if(i < list1.length){
                    temp[index] = list1[i++]; 
                } else if(j < list1.length){
-                   temp[index] = list2[j++];
+                   temp[index] = list2[j++]
                }
             }
 

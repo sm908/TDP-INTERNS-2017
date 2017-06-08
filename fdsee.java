@@ -92,7 +92,7 @@ public class fdsee {
         if(list == null)
             return null;
 
-        int size = list.length - 1;
+        int size = list.length - 1
 
         ArrayList<Integer> array = new ArrayList<Integer>();
        

@@ -48,7 +48,7 @@ public class fdsee {
 
         int sizeTemp = list1.length + list2.length;
 
-        int[] swit = list1;
+        int[] swit = list1
 
         if(list1.length < list2.length){
             list1 = list2;
